@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
   name='RPi.GPIO-def',
-  packages=['RPi.GPIO'],
+  packages=['RPi.GPIO', 'RPi.GPIO.definitions', 'RPi.GPIO.definitions.PWM', 'RPi.GPIO.definitions.functions'],
   version='0.1-alpha',
   description='Definition library for RPi.GPIO(used for IntelliSense)',
   author='Lyubomir Rumenov',
