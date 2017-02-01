@@ -2,3 +2,13 @@
 setup.cfg
 setup.py
 RPi/GPIO/__init__.py
+RPi/GPIO/definitions/__init__.py
+RPi/GPIO/definitions/constants.py
+RPi/GPIO/definitions/PWM/PWM.py
+RPi/GPIO/definitions/PWM/__init__.py
+RPi/GPIO/definitions/functions/__init__.py
+RPi/GPIO/definitions/functions/common.py
+RPi/GPIO/definitions/functions/info.py
+RPi/GPIO/definitions/functions/input.py
+RPi/GPIO/definitions/functions/output.py
+RPi/GPIO/definitions/functions/setup.py
