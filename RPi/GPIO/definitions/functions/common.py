@@ -1,4 +1,4 @@
-def cleanup(channel_or_chan_list):
+def cleanup(channel_or_chan_list=None):
     pass
 
 
